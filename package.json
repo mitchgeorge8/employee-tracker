@@ -22,6 +22,7 @@
     "console.table": "^0.10.0",
     "dotenv": "^16.0.1",
     "inquirer": "^8.2.4",
+    "inquirer-tree-prompt": "^1.1.2",
     "jest": "^28.1.0",
     "mysql2": "^2.3.3"
   }
