@@ -57,6 +57,10 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 To use this application, simply follow the prompts in the command line. You will be presented with several options that will let you interact with the employee database. You can view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role.
 
+[Walkthrough Video](https://drive.google.com/file/d/191KKUb-WBWUI5LaPipaJ0QVPsV4DY4gY/view)
+
+Screenshot:
+
 ![Working employee tracker](./assets/images/screenshot.png)
 
 ## Credits
